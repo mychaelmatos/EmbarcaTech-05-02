@@ -6,6 +6,10 @@ Este projeto é uma tarefa da residência do CEPEDI de Sistemas Embarcados, Emba
 
 link: https://www.youtube.com/watch?v=LKhhsXXgN5o
 
+## Link para demostração do simulador WOKWI
+
+link : https://wokwi.com/projects/422609833939979265
+
 ## Descrição
 
 O projeto utiliza um microcontrolador para controlar um servomotor através de PWM. O código ajusta o ciclo ativo do PWM para mover o servomotor para diferentes posições (0, 90 e 180 graus) e observa o comportamento do LED RGB conectado ao GPIO 12.
