@@ -4,7 +4,7 @@ Este projeto é uma tarefa da residência do CEPEDI de Sistemas Embarcados, Emba
 
 ## LInk de video demostração e explicação geral
 
-link: https://www.youtube.com/watch?v=2twR1R3Yyqs
+link: https://www.youtube.com/watch?v=LKhhsXXgN5o
 
 ## Descrição
 
